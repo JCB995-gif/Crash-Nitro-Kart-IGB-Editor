@@ -25,7 +25,7 @@ and can be extracted. The selector above the sidebar provides access to all tabs
 
 All source code, comments, messages and documentation use English. English is
 built in and requires no language file. Optional catalogs live in `lang/`;
-`lang/it.json` contains the English-to-Italian translations.
+for example `lang/it.json` contains the English-to-Italian translations.
 
 Use the language selector to choose English or an installed catalog. The choice
 is saved and the editor restarts in that language. If `lang/` is empty, missing,
