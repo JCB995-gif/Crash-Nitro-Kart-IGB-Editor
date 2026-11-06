@@ -145,3 +145,10 @@ image-only files. Neither tool changes game files or editor settings. Checks
 establish structural validity and stability, not complete visual fidelity.
 
 DXT layout: [Microsoft BC1/BC2/BC3 documentation](https://learn.microsoft.com/en-us/windows/uwp/graphics-concepts/block-compression).
+
+
+### AI-Assisted Development
+
+Parts of this project may have been developed with the assistance of AI tools. All AI-assisted contributions are subject to human review and validation.
+
+AI-generated content may contain errors or inaccuracies. The project maintainers retain responsibility for the final implementation and maintenance.
